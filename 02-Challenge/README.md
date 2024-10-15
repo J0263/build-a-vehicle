@@ -1,5 +1,8 @@
 # 08 TypeScript and OOP: Vehicle Builder
 
+## Video Link
+Video Link: https://drive.google.com/file/d/16TYp3gimwqkHWdsLz5Knjz5_7g9U2c0N/view?usp=sharing
+`
 ## Your Task
 
 Your task is to update an existing TypeScript command-line application that builds and uses cars to have additional options for motorbikes and trucks. The application prompts the user to create a new vehicle or select an existing vehicle. After going through the creation process or the selection process, the user is able to perform certain actions with the selected vehicle. The user is returned to the actions menu after each action until they decide to exit the application.
